@@ -1,5 +1,5 @@
 # Short code written in python
-# adding python code
+# Code added to print a prime number on each line
 
 print("My name is Melanie")
 
