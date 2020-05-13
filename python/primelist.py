@@ -1,4 +1,4 @@
-# Prime list function(primeList) placed in its own file
+# Prime list function(primeList)
 
 def primeList(a):
     for i in range(2, a):
