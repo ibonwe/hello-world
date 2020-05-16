@@ -10,3 +10,5 @@ def primeList(a):
                 break
         if x==1:
             print(i)
+
+primeList(102)
